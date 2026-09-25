@@ -1,2 +1,3 @@
-# TESTESTETSETSTESTETSTES
-tetetetstststststst
+# TAR25ProgrammeerimineII
+
+EntityFrameworkCore\
